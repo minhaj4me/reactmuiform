@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/updated_reactmuiform/static/css/main.827893e8.css",
-    "main.js": "/updated_reactmuiform/static/js/main.5f7f8b3c.js",
-    "static/js/453.004f8215.chunk.js": "/updated_reactmuiform/static/js/453.004f8215.chunk.js",
-    "index.html": "/updated_reactmuiform/index.html",
-    "main.827893e8.css.map": "/updated_reactmuiform/static/css/main.827893e8.css.map",
-    "main.5f7f8b3c.js.map": "/updated_reactmuiform/static/js/main.5f7f8b3c.js.map",
-    "453.004f8215.chunk.js.map": "/updated_reactmuiform/static/js/453.004f8215.chunk.js.map"
+    "main.css": "/reactmuiform/static/css/main.827893e8.css",
+    "main.js": "/reactmuiform/static/js/main.3b5d3964.js",
+    "static/js/453.004f8215.chunk.js": "/reactmuiform/static/js/453.004f8215.chunk.js",
+    "index.html": "/reactmuiform/index.html",
+    "main.827893e8.css.map": "/reactmuiform/static/css/main.827893e8.css.map",
+    "main.3b5d3964.js.map": "/reactmuiform/static/js/main.3b5d3964.js.map",
+    "453.004f8215.chunk.js.map": "/reactmuiform/static/js/453.004f8215.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.827893e8.css",
-    "static/js/main.5f7f8b3c.js"
+    "static/js/main.3b5d3964.js"
   ]
 }
